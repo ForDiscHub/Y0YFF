@@ -1,0 +1,40 @@
+{
+  "uuid": "c4e9c802-7017-49be-b268-c447c50e6e58",
+  "targetFileName": "app.js",
+  "annotation": [
+    {
+      "main": {
+        "body": "JSにおける定数の変数宣言である\nこれによって宣言された変数は再度宣言することが不可能である",
+        "userAccountId": "Y0YFF"
+      },
+      "sub": [],
+      "selection": {
+        "start": {
+          "line": 2,
+          "character": 0
+        },
+        "end": {
+          "line": 2,
+          "character": 5
+        }
+      }
+    },
+    {
+      "main": {
+        "body": "シングルクオーテーションとダブルクオーテーションの違いはなんですか？",
+        "userAccountId": "Y0YFF"
+      },
+      "sub": [],
+      "selection": {
+        "start": {
+          "line": 2,
+          "character": 13
+        },
+        "end": {
+          "line": 2,
+          "character": 26
+        }
+      }
+    }
+  ]
+}

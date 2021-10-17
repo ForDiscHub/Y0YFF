@@ -1,0 +1,23 @@
+{
+  "uuid": "4ee579ba-2074-4ec3-9248-19b0fea116a1",
+  "targetFileName": "app.js",
+  "annotation": [
+    {
+      "main": {
+        "body": "JSにおける変数宣言である\nこれによって宣言された変数は宣言した関数内全体やグローバルに有効となる",
+        "userAccountId": "Y0YFF"
+      },
+      "sub": [],
+      "selection": {
+        "start": {
+          "line": 6,
+          "character": 0
+        },
+        "end": {
+          "line": 6,
+          "character": 3
+        }
+      }
+    }
+  ]
+}

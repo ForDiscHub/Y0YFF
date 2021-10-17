@@ -1,0 +1,23 @@
+{
+  "uuid": "4d21129b-a4dd-4d85-9086-124f82ac914e",
+  "targetFileName": "app.js",
+  "annotation": [
+    {
+      "main": {
+        "body": "",
+        "userAccountId": "Y0YFF"
+      },
+      "sub": [],
+      "selection": {
+        "start": {
+          "line": -1,
+          "character": -1
+        },
+        "end": {
+          "line": -1,
+          "character": -1
+        }
+      }
+    }
+  ]
+}

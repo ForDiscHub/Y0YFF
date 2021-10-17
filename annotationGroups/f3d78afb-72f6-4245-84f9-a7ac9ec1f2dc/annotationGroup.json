@@ -1,0 +1,17 @@
+{
+  "id": "f3d78afb-72f6-4245-84f9-a7ac9ec1f2dc",
+  "author": "Y0TFF",
+  "title": "JSの変数宣言について",
+  "description": "constとletとvarの違い",
+  "type": ["Question"],
+  "firstAnnotationUuid": "4e9fcb42-8d34-42cd-87aa-f201931d9481",
+  "lastAnnotationUuid": "4d21129b-a4dd-4d85-9086-124f82ac914e",
+  "finishedAnnotationUuid": "4d21129b-a4dd-4d85-9086-124f82ac914e",
+  "annotationUuids": [
+    "4e9fcb42-8d34-42cd-87aa-f201931d9481",
+    "c4e9c802-7017-49be-b268-c447c50e6e58",
+    "306e1c08-d26e-4780-8d6c-ad5451972abe",
+    "4ee579ba-2074-4ec3-9248-19b0fea116a1",
+    "4d21129b-a4dd-4d85-9086-124f82ac914e"
+  ]
+}

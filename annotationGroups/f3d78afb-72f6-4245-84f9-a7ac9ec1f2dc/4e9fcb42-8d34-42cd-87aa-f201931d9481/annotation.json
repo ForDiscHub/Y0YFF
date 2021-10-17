@@ -1,0 +1,23 @@
+{
+  "uuid": "4e9fcb42-8d34-42cd-87aa-f201931d9481",
+  "targetFileName": "app.js",
+  "annotation": [
+    {
+      "main": {
+        "body": "JSのエラー出力に関する宣言である\nこれによって厳密なエラーチェックができる",
+        "userAccountId": "Y0YFF"
+      },
+      "sub": [],
+      "selection": {
+        "start": {
+          "line": 0,
+          "character": 0
+        },
+        "end": {
+          "line": 0,
+          "character": 13
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "306e1c08-d26e-4780-8d6c-ad5451972abe",
+  "targetFileName": "app.js",
+  "annotation": [
+    {
+      "main": {
+        "body": "JSにおける変数宣言である\nこれによって宣言された変数は宣言したブロックでのみ有効となる",
+        "userAccountId": "Y0YFF"
+      },
+      "sub": [],
+      "selection": {
+        "start": {
+          "line": 4,
+          "character": 0
+        },
+        "end": {
+          "line": 4,
+          "character": 3
+        }
+      }
+    }
+  ]
+}
